@@ -26,9 +26,10 @@
         position: relative;
         
         .phone1{
-             background-color: rebeccapurple;
+            stroke:orange;
              position: absolute;
              margin: auto;
+             z-index:-1 ;
          }
 
         form{
