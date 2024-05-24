@@ -33,7 +33,7 @@ const Services=()=> {
     variants={s1} 
     initial="initial" 
     ref={ser}
-    animate={Viewis&&"animate"}
+    animate={"animate"}
 >
         <motion.div className="text" variants={s1}>
             <p>I focus on helping your brand grow <br /> and move forward</p>
