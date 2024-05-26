@@ -53,15 +53,15 @@ function Contact() {
             <motion.h1 variants={con}>Let's work together</motion.h1>
             <motion.div className="object" variants={con}>
                 <h2>Mail</h2>
-                <span>hello@react.dev</span>
+                <span>nishikahariramani@gmail.com</span>
             </motion.div>
             <motion.div className="object" variants={con}>
                 <h2>Address</h2>
-                <span>Hello street New York</span>
+                <span>592,Sindhi colony,Raja park,jaipur</span>
             </motion.div>
             <motion.div className="object" variants={con}>
                 <h2>Phone</h2>
-                <span>+1 234 5678</span>
+                <span>9462019210</span>
             </motion.div>
         </motion.div>
         <div className="form1">
