@@ -6,11 +6,11 @@ const Navbar=() =>{
     <div className='navbar'>
         <div className="wrapper">
           <Sidebar />
-            <motion.span initial={{opacity:0,scale:0.5}} animate={{opacity:1,scale:1}} transition={{duration:0.5}}>Lama Dev</motion.span>
+            <motion.span initial={{opacity:0,scale:0.5}} animate={{opacity:1,scale:1}} transition={{duration:0.5}}></motion.span>
             <div className="social">
-                <a href="#"><img src="/facebook.png" alt="" /></a>
-                <a href="#"><img src="/instagram.png" alt="" /></a>
-                <a href="#"><img src="/youtube.png" alt="" /></a>
+                <a href="https://github.com/nishika678"><img src="/git1.jpg" alt="" /></a>
+                <a href="https://www.instagram.com/_.nishikaaaa/"><img src="/instagram.png" alt="" /></a>
+                <a href="https://www.linkedin.com/in/nishika-hariramani-67554a245/"><img src="/linkedin.webp" alt="" /></a>
                 <a href="#"><img src="/dribbble.png" alt="" /></a>
             </div>
         </div>
