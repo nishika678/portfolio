@@ -6,7 +6,7 @@ const objects=[
     {
         id:1,
         title:"React Commerce",
-        img:"https://images.pexels.com/photos/10295057/pexels-photo-10295057.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        img:"/react_project.png",
         desc:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur dolores recusandae dolorem. Quaerat sunt assumenda explicabo, reiciendis dicta tempora iure.",
     },
     {
