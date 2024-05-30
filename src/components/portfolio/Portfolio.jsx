@@ -19,9 +19,10 @@ const objects=[
     },
     {
         id:3,
-        title:"vanilla JS App",
-        img:"https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        desc:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur dolores recusandae dolorem. Quaerat sunt assumenda explicabo, reiciendis dicta tempora iure.",
+        title:"My Portfolio",
+        img:"/react2.png",
+        desc:"I designed and developed my portfolio website using React, incorporating the parallax technique to create a dynamic and visually engaging experience. The site is styled with SCSS, which allows for modular and maintainable CSS that enhances the design and responsiveness across all devices. The parallax scrolling effect adds depth and interactivity, making the browsing experience captivating and modern. This project highlights my proficiency in React, advanced CSS techniques, and my ability to create aesthetically pleasing, responsive, and functional web applications.",
+        link:"https://github.com/nishika678/portfolio"
     },
     {
         id:4,
