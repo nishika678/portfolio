@@ -7,13 +7,15 @@ const objects=[
         id:1,
         title:"React Commerce",
         img:"/react_project.png",
-        desc:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur dolores recusandae dolorem. Quaerat sunt assumenda explicabo, reiciendis dicta tempora iure.",
+        desc:"Clothify is a e-commerce platform developed using React, CSS, and JavaScript.It offers a seamless shopping experience for users looking to purchase trendy and fashionable clothing items. The application features a clean and intuitive user interface, making it easy for customers to browse products, view detailed descriptions.",
+        link:"https://github.com/nishika678/E-Commerce"
     },
     {
         id:2,
-        title:"Next.js Blog",
-        img:"https://images.pexels.com/photos/23709323/pexels-photo-23709323/free-photo-of-shot-with-oldroll-classic-m.jpeg",
-        desc:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur dolores recusandae dolorem. Quaerat sunt assumenda explicabo, reiciendis dicta tempora iure.",
+        title:"Online Electronic brand",
+        img:"/html_project.png",
+        desc:"I developed an user-friendly electronics e-commerce website utilizing HTML, CSS, and JavaScript. The site features a sleek design that prioritizes a seamless user experience. For the styling, I implemented a layout using CSS Flexbox and Grid.To add improve navigation, I incorporated JavaScript for dynamic content updates and form validation. A key feature of the website is the smooth scrolling functionality. ",
+        link:"https://github.com/nishika678/ECommerce2"
     },
     {
         id:3,
@@ -50,7 +52,7 @@ const Single=({object})=>{
         <motion.div className="text" style={{y}}>
             <h2 >{object.title}</h2>
             <p>{object.desc}</p>
-            <button>See Demo</button>
+            <a href={object.link} target="_blank"><button>See Demo</button></a>
         </motion.div>
         </div>
     </div>
