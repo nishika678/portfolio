@@ -26,9 +26,10 @@ const objects=[
     },
     {
         id:4,
-        title:"Music App",
-        img:"https://images.pexels.com/photos/1762578/pexels-photo-1762578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        desc:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur dolores recusandae dolorem. Quaerat sunt assumenda explicabo, reiciendis dicta tempora iure.",
+        title:"Coaching Hub",
+        img:"/html1.png",
+        desc:"Thrive Coaching is a professional coaching hub designed to help individuals achieve their personal and professional aspirations. Using HTML, CSS, and JavaScript, I developed a user-friendly and visually appealing website that highlights our personalized coaching services. The site features a clean and modern design with intuitive navigation, providing visitors with detailed information about our coaching approach and services.",
+        link:"https://github.com/nishika678/DuoStudio"
     },
 
 ];
